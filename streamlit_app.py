@@ -51,7 +51,7 @@ st.markdown(
             padding: 10px;
             border-radius: 10px;
             max-width: 75%;
-            background-color: #f0f2f5; /* Màu xanh nhạt cho tin nhắn người hỏi */
+            background: none; /* Màu trong suốt */
             text-align: right;
             margin-left: auto;
         }
